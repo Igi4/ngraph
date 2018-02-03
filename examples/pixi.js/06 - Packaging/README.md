@@ -1,7 +1,7 @@
 # Packaging
 
 In past five examples we've created a graph renderer using PIXI.js. In this
-example we've made a separate package out of it: [ngraph.pixi](https://github.com/anvaka/ngraph.pixi). Interactive demo: **[Pixies tree](http://github.com/Igi4/ngraph/examples/pixi.js/06%20-%20Packaging/)**
+example we've made a separate package out of it: [ngraph.pixi](https://github.com/anvaka/ngraph.pixi). Interactive demo: **[Pixies tree](http://igi4.github.io/ngraph/examples/pixi.js/06%20-%20Packaging/)**
 
 ![Pixies tree](http://i.snag.gy/XNxJV.jpg)
 
