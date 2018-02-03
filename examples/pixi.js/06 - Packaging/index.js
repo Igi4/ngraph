@@ -1,5 +1,5 @@
 module.exports.main = function () {
-  var graph = require('ngraph.generators').balancedBinTree(6);
+  var graph = require('ngraph.generators').balancedBinTree(10);
   var createPixiGraphics = require('ngraph.pixi');
 
   var pixiGraphics = createPixiGraphics(graph);
